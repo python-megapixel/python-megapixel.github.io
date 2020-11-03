@@ -16,14 +16,6 @@
     font-display: swap;
 }
 
-@font-face {
-    font-family: 'Staubach';
-    src: url('Staubach.woff') format('woff'),
-        url('Staubach.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
 
 @font-face {
     font-family: 'Inter';
@@ -33,6 +25,19 @@
     font-style: italic;
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'Octin College';
+    src: url('OctinCollegeRg-Regular.woff2') format('woff2'),
+        url('OctinCollegeRg-Regular.woff') format('woff'),
+        url('OctinCollegeRg-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
 
 @font-face {
     font-family: 'Inter Extra';
